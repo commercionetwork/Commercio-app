@@ -1,5 +1,5 @@
 # Commercio-app
-permit to obtain and mange your membership, generate and manage your hostedwallet, get your account address, see the accountability of your transactions
+permit to obtain and mange your membership in Commercio Network, generate and manage your hostedwallet, get your account address, see the accountability of your transactions
 
 Officiale Endpoint : https://commercio.app
 
